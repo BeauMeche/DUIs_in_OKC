@@ -101,7 +101,7 @@ ggplot(data = okc_shapes) +
   # Beau - 5 : forgetting_to_cite&label - 0
   
   labs(title = "DUIs in Oklahoma City",
-       subtitle = "_______________xyz",
+       subtitle = "Colored by gender",
        caption = "Source: Stanford Open Policing Project" ) +
   
   #attempting to animate this thing figured it out, shadow_wake makes the points
